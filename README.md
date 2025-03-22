@@ -1,16 +1,15 @@
-## Hi there 👋
+#Hi, I'm [Iliya Zang](https://github.com/iliyazang).
 
-<!--
-**iliyazang/iliyazang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👀Thank you for coming to my space. This is where I showcase my talent and pass on some knowledge to the public. 
+### Currently exploring Cybersecurity and looking to blend it with my cloud knowledge. I'm excited to learn more about securing cloud environments and building strong security practices. My goal is to combine what I've learned in cloud engineering with new cybersecurity skills to create effective, secure solutions.
 
-Here are some ideas to get you started:
+### 📈 I created a cybersecurity Portfolio. If this interests you, Please find it [here](https://github.com/iliyazang/Cybersecurity-Portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Certificates: 
+- AWS Solutions Architect Associate
+- CompTIA Security+(In Progress)
+- CKS(In Progress)
+
+### Here are the Projects I am currently working on: 
+
+- [Cybersecurity Projects](https://github.com/iliyazang/Cybersecurity-Portfolio/tree/main/08_Projects)
