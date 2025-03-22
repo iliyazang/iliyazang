@@ -32,6 +32,6 @@ If this interests you, please find it [here](https://github.com/iliyazang/Cybers
 ## Resume 💡
 [Iliya Zang's Resume](https://drive.proton.me/urls/KD4V2PMH20#E8ODYcrsByIG)
 
-
+---
 ### 📫**Connect with Me:** 
 - Email: iliyazang@protonmail.com
