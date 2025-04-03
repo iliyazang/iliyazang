@@ -9,7 +9,7 @@
 I’m excited to blend my cloud knowledge with cybersecurity practices. I'm learning to secure cloud environments and build strong security frameworks. My goal is to leverage my cloud engineering experience alongside new cybersecurity skills to create secure, impactful solutions.
 
 ---
-### 📈 **I created a cybersecurity portfolio**
+### 📈 **I'm working on a cybersecurity portfolio**
 If this interests you, please find it [here](https://github.com/iliyazang/Cybersecurity-Portfolio).
 
 ---
