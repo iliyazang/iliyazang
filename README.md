@@ -30,7 +30,7 @@ If this interests you, please find it [here](https://github.com/iliyazang/Cybers
 
 
 ## Resume 💡
-[Iliya Zang's Resume](https://drive.proton.me/urls/KD4V2PMH20#E8ODYcrsByIG)
+[Iliya Zang's Resume](https://drive.proton.me/urls/JAMS32H1W0#IiEzUhiigaor)
 
 ---
 ### 📫**Connect with Me:** 
